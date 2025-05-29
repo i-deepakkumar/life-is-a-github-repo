@@ -25,9 +25,34 @@ Untracked files:
 
 Nothing to commit, just living the moment. ✨
 
-commit a1b2c3d - "Born into the world 🌍"
-commit b3d4e5f - "Learned to walk 🚶"
-commit c6f7g8h - "Discovered tech 💻"
-commit d9e0f1g - "Built first project 🚀"
-commit h2i3j4k - "Pushed positivity daily ✨"
+commit a1b2c3d
+Author: Deepak Teenwal <deepak@example.com>
+Date:   2025-05-29
+
+    🎉 Born into the world 🌍
+
+commit b3d4e5f
+Author: Deepak Teenwal <deepak@example.com>
+Date:   2026-02-15
+
+    🚶 Learned to walk
+
+commit c6f7g8h
+Author: Deepak Teenwal <deepak@example.com>
+Date:   2028-08-10
+
+    💻 Discovered passion for technology
+
+commit d9e0f1g
+Author: Deepak Teenwal <deepak@example.com>
+Date:   2030-05-05
+
+    🚀 Built first project — feeling accomplished!
+
+commit h2i3j4k
+Author: Deepak Teenwal <deepak@example.com>
+Date:   2025-05-29
+
+    ✨ Pushing positivity daily, no merge conflicts
+
 
